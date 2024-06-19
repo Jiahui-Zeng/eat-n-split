@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Eat-n-Split
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Eat-n-Split is a React web app for splitting bills among friends, featuring friend management, real-time balance updates, and an intuitive user interface.
 
 ## Demo
 
